@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreactstart=self.webpackChunkreactstart||[]).push([[283],{1283:function(t,e,n){n.r(e),n.d(e,{default:function(){return u}});var r=n(184);function u(){return(0,r.jsx)("h2",{children:" 404 Not found view"})}}}]);
+//# sourceMappingURL=283.8ac62bf8.chunk.js.map
